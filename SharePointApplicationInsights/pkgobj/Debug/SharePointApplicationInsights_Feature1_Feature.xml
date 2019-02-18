@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SharePoint Application Insights" Description="Enable Application Insights without modifying the master page" Id="721db3d5-d28f-4b15-a69d-d853f8588531" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="InsightsCA\Elements.xml" />
+    <ElementManifest Location="Style Library\Elements.xml" />
+    <ElementFile Location="Style Library\ApplicationInsights\js\insights.js" />
+  </ElementManifests>
+</Feature>

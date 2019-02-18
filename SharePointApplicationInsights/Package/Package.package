@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e3ceffbf-99b4-40a0-b0bc-f0c6847e4eed" solutionId="e3ceffbf-99b4-40a0-b0bc-f0c6847e4eed" resetWebServer="false" sharePointProductVersion="15.0" name="SharePointApplicationInsights" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b001ce0a-4775-4a7e-85af-71a1ccadd607" />
+  </features>
+</package>
